@@ -8,7 +8,7 @@ PathPrototxt = " your path to the prototxt file"
 PathCaffeModel = " your path to the caffe model"
 
 # path to the image w want to detect objects on.
-ImagePath = " your path to imgaes"
+ImagePath = " your images path"
 
 
 # initialization of list of class labels MobileNet SSD was trained to detect
